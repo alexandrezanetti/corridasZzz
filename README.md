@@ -1,6 +1,4 @@
-# corridas
-Corridas do Zzz
-
+# Corridas do Zzz 2026 
 ===Futuro========================
 * 15/11/2026 (domingo) - Prova: Meia de Sampa ==> (Zanetti ?K)
 * 15/11/2026 (domingo) - Prova: Minalba ==> Achilles (Zanetti N) (Marcos Mendes 10K 4'15) (Marcos Júnior 5K C)
@@ -22,6 +20,9 @@ Corridas do Zzz
 ---------------------
 * 31/12/2026 (domingo) - Prova: São Silvestre ==> Achilles (Zanetti ?K) (Marcos Mendes ?K) (Marcos Júnior ?K)
 ---------------------
+
+# Corridas do Zzz 2027
+===Futuro========================
 * 24/01/2027 (domingo) - Meia Maratona Intl de Sao Paulo
 https://www.yescom.com.br/meiasp/2027/index.asp
 ---------------------
@@ -59,10 +60,7 @@ https://www.yescom.com.br/meiasp/2027/index.asp
 
 
 
-
-===Passado=========================
-===Passado=========================
-===Passado=========================
+# Corridas do Zzz 2026 - Passado
 ===Passado=========================
 * 28/09/2025 Prova: Corrida do Pão - 28/09/2025 (https://forms.gle/Z6bGVJtfrLeUP2uP8) 
 ---------------------
